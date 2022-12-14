@@ -1,5 +1,5 @@
 {
-  "homepage": "http://vitouaj.github.io/zodix2",
+  "homepage": "https://vitouaj.github.io/zodix",
   "name": "zodie",
   "proxy": "http://127.0.0.1:5000/api",
   "version": "0.1.0",
